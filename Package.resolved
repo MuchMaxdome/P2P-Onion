@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommandLineKit",
+        "repositoryURL": "https://github.com/objecthub/swift-commandlinekit",
+        "state": {
+          "branch": null,
+          "revision": "27eaed61aac6119a514afbc81193719ffb9cc6ab",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "SwiftTLS",
+        "repositoryURL": "https://github.com/nsc/SwiftTLS",
+        "state": {
+          "branch": "master",
+          "revision": "1fa5fd02e036e515d8f5e9ad29059568d54e12cd",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
