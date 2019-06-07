@@ -8,5 +8,5 @@
 - `echo -e '\x00\x00\x30\x02\x00\x00\x39\x05\x00\x00\x00\x00' | nc localhost 1338` to simulate packet from UI
 
 ## Team
-- Vong Gauda (her)
+- Finn Marten Gaida
 - Maximilian-Dominik Robl
